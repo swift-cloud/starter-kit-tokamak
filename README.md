@@ -1,3 +1,3 @@
 # starter-kit-tokamak
 
-A description of this package.
+Deploy Tokamak projects to Swift Cloud
